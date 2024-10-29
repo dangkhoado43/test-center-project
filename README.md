@@ -27,5 +27,7 @@ This is a Test center project that use Django framework to create tests and test
 
 3. **Running the Project**
 
+    ```bash
     python manage.py runserver
+    ```
     Then access application on browser with url http://127.0.0.1:8000/
