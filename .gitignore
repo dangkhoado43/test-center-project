@@ -1,0 +1,33 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Django specific files
+db.sqlite3
+*.log
+media/
+staticfiles/
+
+# Environment variables
+.env
+settings_local.py
+
+# Virtual environment
+venv/
+env/
+*.egg-info/
+
+# Build and distribution
+dist/
+build/
+*.egg
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+
+# Miscellaneous
+*.DS_Store
+Thumbs.db
